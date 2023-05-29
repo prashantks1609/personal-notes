@@ -1,0 +1,1 @@
+It is a segment of VPC where you can place groups to to isolate resources.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "01-aws-notes/vpc/description.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "01-aws-notes/vpc/description.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "01-aws-notes/vpc/description.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "01-aws-notes/vpc/description.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +147,12 @@
   },
   "active": "49dc5dafdc76271c",
   "lastOpenFiles": [
+    "01-aws-notes/vpc/components/internet-gateway.md",
     "01-aws-notes/vpc/description.md",
+    "01-aws-notes/vpc/components/virtual-private-gateway.md",
+    "01-aws-notes/vpc/components/subnet.md",
     "readme.md",
+    "01-aws-notes/vpc/components",
     "aws-notes/vpc/description.md",
     "01-aws-notes/vpc",
     "01-aws-notes",

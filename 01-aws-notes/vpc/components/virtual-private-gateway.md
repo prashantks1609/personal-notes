@@ -1,0 +1,1 @@
+The Amazon VPC side of a VPN connection for secure transactions.
